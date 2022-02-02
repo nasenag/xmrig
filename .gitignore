@@ -4,3 +4,11 @@ scripts/deps
 /CMakeLists.txt.user
 /.idea
 /src/backend/opencl/cl/cn/cryptonight_gen.cl
+*.swp
+scripts/*
+*CMakeCache.txt
+CMakeFiles/*
+Makefile
+cmake_install.cmake
+libxmrig-asm.a
+xmrig
